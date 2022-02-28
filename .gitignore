@@ -1,0 +1,27 @@
+# python files
+*.py[cdo]
+*.egg-info/
+/build/
+/dist/
+/venv/
+.ipynb_checkpoints/
+
+# testing
+/.coverage
+/.mypy_cache/
+/.pytest_cache/
+/htmlcov/
+/report.xml
+
+# editor configs and caches
+*.swp
+/.vscode
+/.idea
+
+# Data
+/youtube_videos/
+*.mp4
+/data/tsrd
+/data/tsrd-test
+/data/sign_icons
+/wheel

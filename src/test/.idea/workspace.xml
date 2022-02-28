@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3de37c00-44ef-4269-9949-b0c38cef801c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/test_visualizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_visualizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visualization/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../visualization/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visualization/visualizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../visualization/visualizer.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1eBB2WV6kqLpew42zSAbtEY9hTX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3de37c00-44ef-4269-9949-b0c38cef801c" name="Default Changelist" comment="" />
+      <created>1593784898064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593784898064</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1593784911139">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1593784911139" />
+  </component>
+</project>
